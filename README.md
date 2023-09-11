@@ -4,4 +4,4 @@
 <br></br>
 
 
-<div align=center>![Seoultech_LOGO](https://github.com/cow1011/cow1011/assets/57364345/75b49b94-dd2b-4590-a28d-a0b0b4ccdd77)</div>
+<div align=center> ![Seoultech_LOGO](https://github.com/cow1011/cow1011/assets/57364345/75b49b94-dd2b-4590-a28d-a0b0b4ccdd77) </div>
