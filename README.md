@@ -5,4 +5,4 @@
 
 
 
-![스크린샷(17)](https://github.com/cow1011/cow1011/assets/57364345/5b7284ff-78d8-4a3a-8a39-5ee9cdbbdaae)
+![Seoultech_LOGO](https://github.com/cow1011/cow1011/assets/57364345/75b49b94-dd2b-4590-a28d-a0b0b4ccdd77)
